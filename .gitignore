@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules/
 # Logs
 logs
@@ -26,3 +27,6 @@ dist-ssr
 
 
 .env
+=======
+/node_modules
+>>>>>>> origin/main
